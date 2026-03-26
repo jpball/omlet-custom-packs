@@ -1,4 +1,4 @@
-tellraw @a {"text":"A new in-game day has begun!","color":"blue","bold":true}
+#tellraw @a {"text":"A new in-game day has begun!","color":"blue","bold":true}
 
 
 # Set curr_day.mod_freq to curr day to prepare for the modulus operation that determines if a broadcast should occur.
