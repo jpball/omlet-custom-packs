@@ -1,0 +1,13 @@
+#!/bin/bash
+
+RES_PACK_PATH_DEV="/home/jordan/Dev/minecraft/omlet-server-dp/omlet_res_pack"
+DATA_PACK_PATH_DEV="/home/jordan/Dev/minecraft/omlet-server-dp/omlet_datapack"
+
+RES_PACK_PATH_PROD="/home/jordan/Documents/curseforge/minecraft/Instances/Artificial Vanilla 6/resourcepacks/"
+DATA_PACK_PATH_PROD="/home/jordan/Documents/curseforge/minecraft/Instances/Artificial Vanilla 6/saves/Build/datapacks/"
+
+
+# Copy dev directories to prod directories
+cp -rv "$RES_PACK_PATH_DEV" "$RES_PACK_PATH_PROD"
+cp -rv "$DATA_PACK_PATH_DEV" "$DATA_PACK_PATH_PROD"
+echo "Resource packs and data packs have been reloaded from development to production directories."
