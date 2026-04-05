@@ -8,6 +8,6 @@ DATA_PACK_PATH_PROD="/home/jordan/Documents/curseforge/minecraft/Instances/Artif
 
 
 # Copy dev directories to prod directories
-cp -rv "$RES_PACK_PATH_DEV" "$RES_PACK_PATH_PROD"
-cp -rv "$DATA_PACK_PATH_DEV" "$DATA_PACK_PATH_PROD"
+cp -r "$RES_PACK_PATH_DEV" "$RES_PACK_PATH_PROD"
+cp -r "$DATA_PACK_PATH_DEV" "$DATA_PACK_PATH_PROD"
 echo "Resource packs and data packs have been reloaded from development to production directories."
