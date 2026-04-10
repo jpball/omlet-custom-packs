@@ -1,0 +1,9 @@
+{
+"item.goat_horn.sound.vboom": {
+	"sounds": [
+		{
+		"name": "omlet_rp:vboom"
+		}
+	]
+}
+}

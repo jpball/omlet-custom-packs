@@ -1,7 +1,7 @@
 #!/bin/bash
 
-RES_PACK_PATH_DEV="/home/jordan/Dev/minecraft/omlet-server-dp/omlet_res_pack"
-DATA_PACK_PATH_DEV="/home/jordan/Dev/minecraft/omlet-server-dp/omlet_datapack"
+RES_PACK_PATH_DEV="/home/jordan/Dev/minecraft/omlet-server-dp/Omlet_ResourcePack"
+DATA_PACK_PATH_DEV="/home/jordan/Dev/minecraft/omlet-server-dp/Omlet_Datapack"
 
 RES_PACK_PATH_PROD="/home/jordan/Documents/curseforge/minecraft/Instances/Artificial Vanilla 6/resourcepacks/"
 DATA_PACK_PATH_PROD="/home/jordan/Documents/curseforge/minecraft/Instances/Artificial Vanilla 6/saves/Build/datapacks/"
