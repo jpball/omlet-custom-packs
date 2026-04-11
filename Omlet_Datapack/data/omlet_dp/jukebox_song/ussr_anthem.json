@@ -1,0 +1,8 @@
+{
+	"comparator_output": 8,
+	"description": "Anthem of the USSR",
+	"length_in_seconds": 224,
+	"sound_event": {
+		"sound_id": "omlet_rp:music_disc.ussr_anthem"
+	}
+}

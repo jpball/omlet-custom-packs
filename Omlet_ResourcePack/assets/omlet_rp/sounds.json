@@ -5,5 +5,12 @@
 		"name": "omlet_rp:vboom"
 		}
 	]
-}
+	},
+	"music_disc.ussr_anthem": {
+		"sounds": [
+			{
+			"name": "omlet_rp:ussr_anthem"
+			}
+		]
+	}
 }
