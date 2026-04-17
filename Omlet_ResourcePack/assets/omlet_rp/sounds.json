@@ -9,7 +9,7 @@
 	"music_disc.ussr_anthem": {
 		"sounds": [
 			{
-			"name": "omlet_rp:ussr_anthem"
+			"name": "omlet_rp:records/ussr_anthem"
 			}
 		]
 	}
