@@ -2,10 +2,15 @@
     "values": [
         "omlet_dp:frog_dance",
         "omlet_dp:rayfrog",
-        "omlet_dp:propaganda1",
-        "omlet_dp:propaganda2",
-        "omlet_dp:propaganda3",
-        "omlet_dp:propaganda4",
-        "omlet_dp:earthset"
+        "omlet_dp:commune_art/communist_victory",
+        "omlet_dp:commune_art/all_for_the_front",
+        "omlet_dp:commune_art/capital",
+        "omlet_dp:commune_art/nuclear_soviet",
+        "omlet_dp:commune_art/sputnik_first_longshot",
+        "omlet_dp:commune_art/volunteer",
+        "omlet_dp:earthset",
+        "omlet_dp:commune_art/yuri_gargarin",
+        "omlet_dp:day_in_the_park",
+        "omlet_dp:nighthawks"
     ]
 }

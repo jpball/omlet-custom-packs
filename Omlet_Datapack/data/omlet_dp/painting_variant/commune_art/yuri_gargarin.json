@@ -1,0 +1,14 @@
+{
+	"asset_id": "omlet_rp:soviet_art/yuri_poster",
+	"width": 1,
+	"height": 2,
+	"title": {
+		"color": "dark_aqua",
+		"text": "Glory!"
+
+	},
+	"author": {
+		"color": "gray",
+		"text": "The Union of Soviet Socialist Republics"
+	}
+}

@@ -2,6 +2,12 @@
 	"asset_id": "omlet_rp:frog_dance",
 	"width": 1,
 	"height": 1,
-	"title": "Dancing Frorg",
-	"author": "Ray"
+	"title": {
+		"color": "dark_aqua",
+		"text": "Dancing Frorg"
+	},
+	"author": {
+		"color": "gray",
+		"text": "Raymond The Goat"
+	}
 }

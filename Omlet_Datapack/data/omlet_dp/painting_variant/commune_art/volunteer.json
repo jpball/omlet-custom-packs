@@ -1,0 +1,14 @@
+{
+	"asset_id": "omlet_rp:soviet_art/volunteer",
+	"width": 3,
+	"height": 4,
+	"title": {
+		"color": "dark_aqua",
+		"text": "Have you vounteered?"
+
+	},
+	"author": {
+		"color": "gray",
+		"text": "The Union of Soviet Socialist Republics"
+	}
+}

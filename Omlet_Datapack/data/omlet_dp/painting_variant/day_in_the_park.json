@@ -1,0 +1,14 @@
+{
+	"asset_id": "omlet_rp:day_in_the_park",
+	"width": 5,
+	"height": 3,
+	"title": {
+		"color": "dark_aqua",
+		"text": "A Sunday Afternoon on the Island of La Grande Jatte"
+
+	},
+	"author": {
+		"color": "gray",
+		"text": "George Seurat"
+	}
+}

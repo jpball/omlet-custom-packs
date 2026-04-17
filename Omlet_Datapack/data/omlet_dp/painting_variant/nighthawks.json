@@ -1,0 +1,14 @@
+{
+	"asset_id": "omlet_rp:nighthawks_by_edward_hopper_1942",
+	"width": 5,
+	"height": 3,
+	"title": {
+		"color": "dark_aqua",
+		"text": "Nighthawks"
+
+	},
+	"author": {
+		"color": "gray",
+		"text": "Edward Hopper"
+	}
+}
